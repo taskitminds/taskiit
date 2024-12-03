@@ -1,0 +1,53 @@
+.about-section {
+  background-color: #f9bd2c;
+  color: #333;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.about-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #2f2e41;
+}
+
+.about-text {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.about-highlights {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-top: 1.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about-highlights h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #2f2e41;
+}
+
+.about-highlights ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about-highlights li {
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+  text-align: left;
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.about-highlights li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #f9bd2c;
+  font-weight: bold;
+}

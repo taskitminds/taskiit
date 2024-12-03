@@ -1,0 +1,39 @@
+.carousel-container {
+  width: 100%;
+  max-width: 780px;
+  margin: auto;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.carousel img {
+  width: 600px;
+  height: 500px; /* Adjust height */
+  object-fit: cover;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0);
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  .carousel img {
+    height: 300px;
+  }
+}
+.carousel-indicators [data-bs-target] {
+  width: 4px; /* Adjust size */
+  height: 4px; /* Adjust size */
+  background-color: rgba(255, 255, 255, 0.6); /* Inactive color */
+  border-radius: 50%; /* Make it a circle */
+  transition: background-color 0.3s ease;
+}
+
+.carousel-indicators .active {
+  background-color: white; /* Active color */
+  width: 4px; /* Optional: Slightly larger active indicator */
+  height: 4px;
+}

@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9aa3dc30.css",
+    "main.js": "/static/js/main.60d02f44.js",
+    "static/js/453.fd2bc2b4.chunk.js": "/static/js/453.fd2bc2b4.chunk.js",
+    "static/media/yuvaprajan.png": "/static/media/yuvaprajan.8fe086d59d907e1e3c7c.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/5thimg.png": "/static/media/5thimg.e6e0e1c3ad22949c2349.png",
+    "static/media/1stimg.png": "/static/media/1stimg.d3ced079e14d4aa2eb28.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/3rdimg.png": "/static/media/3rdimg.e3870b24b2642e03af46.png",
+    "static/media/2ndimg.png": "/static/media/2ndimg.289a641a3b1c20e544ed.png",
+    "static/media/4thimg.png": "/static/media/4thimg.9621a93435b108cc8ca8.png",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/TaskitLogo.jpg": "/static/media/TaskitLogo.3d2a78b2e54539e640fe.jpg",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/index.html",
+    "main.9aa3dc30.css.map": "/static/css/main.9aa3dc30.css.map",
+    "main.60d02f44.js.map": "/static/js/main.60d02f44.js.map",
+    "453.fd2bc2b4.chunk.js.map": "/static/js/453.fd2bc2b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa3dc30.css",
+    "static/js/main.60d02f44.js"
+  ]
+}
