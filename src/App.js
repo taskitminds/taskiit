@@ -8,20 +8,24 @@ import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import "./App.css"
+import "./App.css";
+
 function App() {
   return (
-    <Router>
-      <div className="animated-bg">
+    <Router basename="/taskit_frontend">
       <Navbar />
+      
       <Routes>
+        {/* Show Home only on the root URL ("/") */}
         <Route path="/" element={<Home />} />
+        
+        {/* Add routes for other pages */}
         <Route path="/about" element={<About />} />
         <Route path="/services" element={<Services />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-      </div>
+
       <Footer />
     </Router>
   );
