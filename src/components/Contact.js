@@ -17,7 +17,7 @@ function Contact() {
     setLoading(true); // Set loading to true when form submission starts
 
     try {
-      const response = await fetch("http://localhost:5000/api/contact", {
+      const response = await fetch("https://taskit-backend-kx7u.onrender.com/api/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
