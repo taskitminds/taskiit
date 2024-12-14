@@ -2,7 +2,7 @@
   "name": "taskit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yuvaprajan.github.io",
+  "homepage": "https://yuvaprajan.github.io/taskit_frontend",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.1",
     "@testing-library/jest-dom": "^5.17.0",
