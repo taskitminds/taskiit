@@ -14,6 +14,7 @@ function App() {
     <Router>
       <div className="animated-bg">
       <Navbar />
+      <Home />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
