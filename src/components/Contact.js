@@ -95,17 +95,6 @@ function Contact() {
                 />
               </div>
               <div className="form-group">
-                <label htmlFor="subject">Subject</label>
-                <input
-                  type="text"
-                  id="subject"
-                  placeholder="Enter the subject"
-                  value={subject}
-                  onChange={(e) => setSubject(e.target.value)}
-                  required
-                />
-              </div>
-              <div className="form-group">
                 <label htmlFor="message">Your Message</label>
                 <textarea
                   id="message"
