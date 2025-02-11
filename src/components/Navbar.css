@@ -10,7 +10,7 @@
   }
 
   .navbar-logo{
-    background-image: url("C:/Users/yuvap/OneDrive/Desktop/taskit/src/components/TaskitLogo.jpg");
+    background-image: url(./TaskitLogo.jpg);
     background-repeat: no-repeat;
     background-size: 100px;
     border-radius: 10px;
