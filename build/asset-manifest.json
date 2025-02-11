@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/taskit_frontend/static/css/main.b920445b.css",
-    "main.js": "/taskit_frontend/static/js/main.f1cf755b.js",
+    "main.js": "/taskit_frontend/static/js/main.5cec89ab.js",
     "static/js/453.fd2bc2b4.chunk.js": "/taskit_frontend/static/js/453.fd2bc2b4.chunk.js",
     "static/media/yuvaprajan.png": "/taskit_frontend/static/media/yuvaprajan.8fe086d59d907e1e3c7c.png",
     "static/media/fa-solid-900.ttf": "/taskit_frontend/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
@@ -20,11 +20,11 @@
     "static/media/fa-v4compatibility.woff2": "/taskit_frontend/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/taskit_frontend/index.html",
     "main.b920445b.css.map": "/taskit_frontend/static/css/main.b920445b.css.map",
-    "main.f1cf755b.js.map": "/taskit_frontend/static/js/main.f1cf755b.js.map",
+    "main.5cec89ab.js.map": "/taskit_frontend/static/js/main.5cec89ab.js.map",
     "453.fd2bc2b4.chunk.js.map": "/taskit_frontend/static/js/453.fd2bc2b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b920445b.css",
-    "static/js/main.f1cf755b.js"
+    "static/js/main.5cec89ab.js"
   ]
 }
