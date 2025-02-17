@@ -12,7 +12,7 @@ import "./App.css";
 
 function App() {
   return (
-    <Router basename="/taskit_frontend">
+    <Router basename="/taskiit">
       <Navbar />
       
       <Routes>
