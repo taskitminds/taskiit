@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9aa3dc30.css",
-    "main.js": "/static/js/main.4c6ab5c9.js",
+    "main.css": "/static/css/main.9c022b4d.css",
+    "main.js": "/static/js/main.3afe8402.js",
     "static/js/453.fd2bc2b4.chunk.js": "/static/js/453.fd2bc2b4.chunk.js",
     "static/media/yuvaprajan.png": "/static/media/yuvaprajan.8fe086d59d907e1e3c7c.png",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
@@ -19,12 +19,12 @@
     "static/media/TaskitLogo.jpg": "/static/media/TaskitLogo.3d2a78b2e54539e640fe.jpg",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/index.html",
-    "main.9aa3dc30.css.map": "/static/css/main.9aa3dc30.css.map",
-    "main.4c6ab5c9.js.map": "/static/js/main.4c6ab5c9.js.map",
+    "main.9c022b4d.css.map": "/static/css/main.9c022b4d.css.map",
+    "main.3afe8402.js.map": "/static/js/main.3afe8402.js.map",
     "453.fd2bc2b4.chunk.js.map": "/static/js/453.fd2bc2b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9aa3dc30.css",
-    "static/js/main.4c6ab5c9.js"
+    "static/css/main.9c022b4d.css",
+    "static/js/main.3afe8402.js"
   ]
 }
